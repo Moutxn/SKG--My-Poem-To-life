@@ -1,0 +1,28 @@
+[
+    {
+        "GroupName": "TicoCoin",
+        "AnimName": [
+            "Rotate"
+        ],
+        "ContinueAnimEnd": true,
+        "UniqueName": "Rotate",
+        "EffectName": [
+            "QuestionCoinLight"
+        ],
+        "OffsetX": 0.0,
+        "OffsetY": 20.0,
+        "OffsetZ": 0.0,
+        "ScaleValue": 0.9,
+        "RateValue": 1.0,
+        "LightAffectValue": 0.0,
+        "DrawOrder": "3D",
+        "Affect": [
+            "T",
+            "R"
+        ],
+        "Follow": [
+            "T",
+            "R"
+        ]
+    }
+]

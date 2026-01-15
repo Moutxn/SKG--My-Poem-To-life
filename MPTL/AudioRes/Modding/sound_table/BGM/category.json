@@ -1,0 +1,7 @@
+{
+  "name": "BGM",
+  "includes": [
+    "libraries/MAIN_BGM.json",
+    "libraries/MULTI_BGM.json"
+  ]
+}

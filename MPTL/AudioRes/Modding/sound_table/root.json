@@ -1,0 +1,10 @@
+{
+  "version": 0,
+  "revision": 1,
+  "format": "BST",
+  "includes": [
+    "SE",
+    "BGM",
+    "STREAM"
+  ]
+}

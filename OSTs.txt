@@ -1,0 +1,132 @@
+
+ V "Title Screen" [SMG_title_strm] -> World 1 Monkey Island (Super Monkey Ball Step & Roll OST).
+
+ V "File Select" [SMG_fileselect_strm] -> Jumper (Castle Crashers).
+
+
+
+ V "Combet Observatory 1" [SMG_astroout01_strm] -> Dongbaek (Limbus Company OST).
+
+ V "Comet Observatory 2" [SMG_astroout02_strm] -> Rosalina in the Observatory (C<omet Observatory) (Mario Kart World OST).
+
+ V "Comet Observatory 3" [SMG_astroout03_strm] -> Jump Up, Super Star! (Super Mario Odyssey) (Mario Kart World OST).
+
+
+
+
+ V "Gateway 1" [SMG_galaxy24_multi] -> Zora's Domain - Day (The Legend of Zelda: Breath of the Wild OST).
+
+ V "Gateway 2" [SMG_galaxy25_strm] -> Final Battle (Giygas) (Mother 2 OST).
+
+ V "Good Egg" [SMG_galaxy01_strm] -> Juice Archipelago (Sonic Lost World OST).
+
+ V "Toy Time" [SMG_galaxy22_strm] -> Trainwreck Of Electro Swing (A Hat In Time Remix by "Plasma3Music").
+
+ V "Snow Cap" [SMG_galaxy27_strm] -> Snow Rise (Paper Mario: Sticker Star OST).
+
+ V "Gateway 3" [SMG_galaxy26_strm] (Used for Sea Slide) -> Sky & Sea (Super Mario Sunshine OST).
+
+ V "Beach Bowl" [SMG_galaxy03_multi] -> Discovery (Sonic Mania Adventures Special Remix). [At the surface]
+                                        Dire Dire Docks (Super Mario 64 OST). [In the water]
+
+ V "Buoy Base" [SMG_galaxy04_multi] -> Urayan Tunnels (Xenoblade Chronicles 3 OST) [At the surface] (Link: https://www.youtube.com/watch?v=MQayR1Qf0Kg&list=PLzjkiYUjXueuV8M06p9FRc1hsTjeXRT8w&index=252)
+                                      Canto V Battle Theme B1 (Limbus Company OST) [In the water]
+
+ V "Bowser's Star Reactor" [SMG_galaxy15_strm] -> Vovete Miserias (Limbus Company OST).
+
+ V "Honeyhive" [SMG_galaxy10_strm] -> La Mancha Carnival 3 (Limbus Company OST).
+
+ V "Big Bad Bugaboom" [SMG_galaxy10_hurry_strm] -> Where Your Dream Ends (Limbus Company OST).
+
+ V "Airship Armada" [SMG_galaxy09_strm] -> Intervallo V-1 Battle Theme A (Limbus Company OST).
+
+ V "Deep Dark" [SMG_galaxy05_strm] -> Tephra Cave (Xenoblade Chronicles OST).
+
+ V "Interlude" [SMG_galaxy_inter_strm] -> Energy Team (Limbus Company OST).
+
+ V "Gusty Garden" [SMG_galaxy14_strm] -> Victima propiciatoria (Umineko OST).
+
+ V "Melty Molten" [SMG_galaxy02_strm] -> Canto VII Boss 2 Battle Theme (Limbus Company OST).
+
+ V "Ghostly Galaxy" [SMG_galaxy06_strm] -> Library Piano [Electro Swing Remix] (Luigi's Mansion 2: Dark Moon, by Qumu).
+
+ V "Battlerock Galaxy" [SMG_galaxy11_multi] -> Engage The Enemy (Xenoblade Chronicles: Definitive Edition OST).
+
+ V "Mecha Bowser" [SMG_boss08_strm] (Used for Dusty Dune X) -> Mario Desert JERSEY CLUB (prod. RaeSam). [USED ONLY IN THE FIRST LEVEL OF DUSTY DUNE]
+
+ V "Dusty Dune" [SMG_galaxy19_strm] -> The Wastes Where Life Began (Kirby and the Forgotten Land OST).
+
+ V "Freezeflame" [SMG_galaxy16_multi] -> Route 216 (Night) (Pokémon Diamond & Pearl OST). [ICE FOR FREEZEFLAME]
+                                      
+ V "Attack of the Airships" [SMG_ev_prolo03_strm] -> Volcano Underground BGM (New Super Mario Bros. Wii OST). [LAVA FOR FREEZEFLAME]
+
+ V "Space Junk" [SMG_galaxy08_strm] -> Space Junk Galaxy (Mario Kart World OST).
+
+ V "Catastrophe" [SMG_ev_prolo04_strm] -> Bamboo Island (The Legend of Zelda: Skyward Sword OST). [Used only for Gold Leaf, not Honeyhive]
+
+ V "Bowser's Galaxy Reactor" [SMG_galaxy28_strm] -> Bowser's Galaxy Generator Ultimate MashUp (Super Mario Galaxy 2 remix, by HAYATENDO).
+
+ V "Bowser" [SMG_boss07_multi] -> Jia Qu Phase 1 (Limbus Company OST).
+
+ V "Final Bowser" [SMG_boss10_strm] -> Canto IX Boss Battle Theme 2 (Limbus Company OST).
+
+ V "Captain Toad's Theme" [SMG_ev_kinotan_strm] -> Sanzunokawa Cut (Limbus Company OST). [USED FOR GALAXY REACTOR 1]
+
+ V "Drip Drop" [SMG_galaxy23_strm] -> Fall 'The Smell of Mushroom' (Stardew Valley OST).
+
+ V "Picture Book" [SMG_ev_prolo01_strm] -> Memory - Orchestrated Remake (Super Paper Mario OST; remake by AJ DiSpirito).
+
+ V "Library" [SMG_astrodome03_strm] -> Memory 1 (Super Paper Mario OST).
+
+ V "Mushroom Kingdom" [SMG_ev_prolo02_strm] -> On & On (by Cartoon, Jéja (feat. Daniel Levi)). [USED IN THE LAST GALAXY]
+
+
+
+
+
+
+
+ V "Pip Interior" [SMG_galaxy18_strm] -> Happy Valentine's Nyan Cat.
+
+ V "Space Fantasy" [SMG_galaxy12_strm] -> Symphony of Boreal Wind (Genshin Impact OST).
+
+ V "A Tense Moment" [SMG_galaxy01_tomb_strm] -> Umbilical (Alien: Isolation OST).
+
+ V "Space Athletics" [SMG_galaxy13_strm] -> Vain Star (Edit) (Castle Crashers OST).
+
+ V "Blue Sky Athletic" [SMG_galaxy17_strm] -> Stardust Speedway 1 (Sonic Mania OST).
+
+
+
+
+ V "Azaneth" [STM_azaneth_strm] -> Angela Phase 1 (Library of Ruina). [USED FOR THE LAST CUSTOM GALAXY, THREE OSTS FOR EACH PHASES.]
+
+ V "Savior" [STM_savior_strm] -> Angela Phase 2 (Library of Ruina). [USED FOR THE LAST CUSTOM GALAXY, THREE OSTS FOR EACH PHASES.]
+
+ V "Poem" [STM_poem_strm] -> Angela Phase 3 (Library of Ruina). [USED FOR THE LAST CUSTOM GALAXY, THREE OSTS FOR EACH PHASES.]
+
+ V "Kamella" [SMG_boss04_strm] -> Canto IX Boss 5 Battle Theme (Limbus Company OST). [USED FOR THE LAST CUSTOM GALAXY.]
+
+
+
+
+ V "Speedy Comet" [SMG_galaxy02_hurry_strm] -> Classic Pursuit (by cYsmix).
+
+ V "Cosmic Comet" [SMG_galaxy20_strm] -> The 5th Walpurgis Night Easy Battle Theme (Limbus Company OST).
+
+ V "Purple Comet" [SMG_galaxy21_strm] -> Purple Comet Mashup (by HAYATENDO).
+
+ V "Glitch" [SMG_glitch_strm] -> Canto IX Battle Theme B (Limbus Company OST). [USED IN SOME PURPLE COINS MISSIONS]
+
+
+
+
+
+ V "Dome" [SMG_astrodome_multi] ->  Abnormality Choice Theme (Limbus Company OST).
+
+ V "Dome (Bowser)" [SMG_astrodome02_strm] -> Middle Finger Toujou (Limbus Company OST).
+
+ V "Dome (Garden)" [SMG_astrodome04_multi] -> Remembrance 2 + 3 (Limbus Company OST).
+
+
+ V "Credits" [SMG_staffroll_strm] -> Pass On - Canto IV (Limbus Company OST).

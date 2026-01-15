@@ -1,0 +1,805 @@
+{
+  "name": "0",
+  "sounds": [
+    {
+      "unk1": 128,
+      "unk2": 47,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_astrodome03_strm.ast",
+      "type": 112,
+      "mOffset": 35020,
+      "NameOffset": 0,
+      "name": "STM_LIBRARY"
+    },
+    {
+      "unk1": 128,
+      "unk2": 90,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_title_strm.ast",
+      "type": 112,
+      "mOffset": 35028,
+      "NameOffset": 0,
+      "name": "STM_TITLE"
+    },
+    {
+      "unk1": 128,
+      "unk2": 85,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy01_strm.ast",
+      "type": 112,
+      "mOffset": 35036,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_01"
+    },
+    {
+      "unk1": 128,
+      "unk2": 69,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_boss01a_strm.ast",
+      "type": 112,
+      "mOffset": 35044,
+      "NameOffset": 0,
+      "name": "STM_BOSS_01_A"
+    },
+    {
+      "unk1": 128,
+      "unk2": 93,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_boss02a_strm.ast",
+      "type": 112,
+      "mOffset": 35052,
+      "NameOffset": 0,
+      "name": "STM_BOSS_02_A"
+    },
+    {
+      "unk1": 128,
+      "unk2": 90,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_boss02b_strm.ast",
+      "type": 112,
+      "mOffset": 35060,
+      "NameOffset": 0,
+      "name": "STM_BOSS_02_B"
+    },
+    {
+      "unk1": 128,
+      "unk2": 64,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_boss03a_strm.ast",
+      "type": 112,
+      "mOffset": 35068,
+      "NameOffset": 0,
+      "name": "STM_BOSS_03_A"
+    },
+    {
+      "unk1": 128,
+      "unk2": 64,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_boss03b_strm.ast",
+      "type": 112,
+      "mOffset": 35076,
+      "NameOffset": 0,
+      "name": "STM_BOSS_03_B"
+    },
+    {
+      "unk1": 128,
+      "unk2": 110,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy02_strm.ast",
+      "type": 112,
+      "mOffset": 35084,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_02"
+    },
+    {
+      "unk1": 128,
+      "unk2": 99,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy02_hurry_strm.ast",
+      "type": 112,
+      "mOffset": 35092,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_02_HURRY"
+    },
+    {
+      "unk1": 128,
+      "unk2": 84,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_ev_rabbit_strm.ast",
+      "type": 112,
+      "mOffset": 35100,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_02_CHASE"
+    },
+    {
+      "unk1": 128,
+      "unk2": 67,
+      "streamType": 238,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy03_multi.ast",
+      "type": 112,
+      "mOffset": 35108,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_03"
+    },
+    {
+      "unk1": 128,
+      "unk2": 83,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_ev_race_strm.ast",
+      "type": 112,
+      "mOffset": 35116,
+      "NameOffset": 0,
+      "name": "STM_RACE_01"
+    },
+    {
+      "unk1": 128,
+      "unk2": 107,
+      "streamType": 238,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy04_multi.ast",
+      "type": 112,
+      "mOffset": 35124,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_04"
+    },
+    {
+      "unk1": 128,
+      "unk2": 75,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_boss04_strm.ast",
+      "type": 112,
+      "mOffset": 35132,
+      "NameOffset": 0,
+      "name": "STM_BOSS_04"
+    },
+    {
+      "unk1": 128,
+      "unk2": 80,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy05_strm.ast",
+      "type": 112,
+      "mOffset": 35140,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_05"
+    },
+    {
+      "unk1": 128,
+      "unk2": 65,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy06_strm.ast",
+      "type": 112,
+      "mOffset": 35148,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_06"
+    },
+    {
+      "unk1": 128,
+      "unk2": 39,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy_inter_strm.ast",
+      "type": 112,
+      "mOffset": 35156,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_INTER"
+    },
+    {
+      "unk1": 128,
+      "unk2": 75,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy27_strm.ast",
+      "type": 112,
+      "mOffset": 35164,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_27"
+    },
+    {
+      "unk1": 128,
+      "unk2": 75,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_boss05a_strm.ast",
+      "type": 112,
+      "mOffset": 35172,
+      "NameOffset": 0,
+      "name": "STM_BOSS_05_A"
+    },
+    {
+      "unk1": 128,
+      "unk2": 42,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_ev_starchance_strm.ast",
+      "type": 112,
+      "mOffset": 35180,
+      "NameOffset": 0,
+      "name": "STM_STAR_EXIST"
+    },
+    {
+      "unk1": 128,
+      "unk2": 90,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_boss06a_strm.ast",
+      "type": 112,
+      "mOffset": 35188,
+      "NameOffset": 0,
+      "name": "STM_BOSS_06_A"
+    },
+    {
+      "unk1": 128,
+      "unk2": 85,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_boss06b_strm.ast",
+      "type": 112,
+      "mOffset": 35196,
+      "NameOffset": 0,
+      "name": "STM_BOSS_06_B"
+    },
+    {
+      "unk1": 128,
+      "unk2": 67,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy08_strm.ast",
+      "type": 112,
+      "mOffset": 35204,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_08"
+    },
+    {
+      "unk1": 128,
+      "unk2": 90,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy09_strm.ast",
+      "type": 112,
+      "mOffset": 35212,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_09"
+    },
+    {
+      "unk1": 128,
+      "unk2": 70,
+      "streamType": 238,
+      "streamPath": "/AudioRes/Stream/SMG_astrodome_multi.ast",
+      "type": 112,
+      "mOffset": 35220,
+      "NameOffset": 0,
+      "name": "STM_ASTRO_DOME"
+    },
+    {
+      "unk1": 128,
+      "unk2": 64,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy10_strm.ast",
+      "type": 112,
+      "mOffset": 35228,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_10"
+    },
+    {
+      "unk1": 128,
+      "unk2": 78,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy10_hurry_strm.ast",
+      "type": 112,
+      "mOffset": 35236,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_10_HURRY"
+    },
+    {
+      "unk1": 128,
+      "unk2": 97,
+      "streamType": 238,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy11_multi.ast",
+      "type": 112,
+      "mOffset": 35244,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_11"
+    },
+    {
+      "unk1": 128,
+      "unk2": 67,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy12_strm.ast",
+      "type": 112,
+      "mOffset": 35252,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_12"
+    },
+    {
+      "unk1": 128,
+      "unk2": 55,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_astroout01_strm.ast",
+      "type": 112,
+      "mOffset": 35260,
+      "NameOffset": 0,
+      "name": "STM_ASTRO_OUT"
+    },
+    {
+      "unk1": 128,
+      "unk2": 65,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_ev_prolo01_strm.ast",
+      "type": 112,
+      "mOffset": 35268,
+      "NameOffset": 0,
+      "name": "STM_PROLOGUE_01"
+    },
+    {
+      "unk1": 128,
+      "unk2": 69,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_ev_prolo02_strm.ast",
+      "type": 112,
+      "mOffset": 35276,
+      "NameOffset": 0,
+      "name": "STM_PROLOGUE_02"
+    },
+    {
+      "unk1": 128,
+      "unk2": 85,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_ev_prolo03_strm.ast",
+      "type": 112,
+      "mOffset": 35284,
+      "NameOffset": 0,
+      "name": "STM_PROLOGUE_03"
+    },
+    {
+      "unk1": 128,
+      "unk2": 85,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_ev_prolo04_strm.ast",
+      "type": 112,
+      "mOffset": 35292,
+      "NameOffset": 0,
+      "name": "STM_PROLOGUE_04"
+    },
+    {
+      "unk1": 128,
+      "unk2": 61,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy13_strm.ast",
+      "type": 112,
+      "mOffset": 35300,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_13"
+    },
+    {
+      "unk1": 128,
+      "unk2": 69,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_boss01b_strm.ast",
+      "type": 112,
+      "mOffset": 35308,
+      "NameOffset": 0,
+      "name": "STM_BOSS_01_B"
+    },
+    {
+      "unk1": 128,
+      "unk2": 93,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy14_strm.ast",
+      "type": 112,
+      "mOffset": 35316,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_14"
+    },
+    {
+      "unk1": 128,
+      "unk2": 70,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_fileselect_strm.ast",
+      "type": 112,
+      "mOffset": 35324,
+      "NameOffset": 0,
+      "name": "STM_FILE_SELECT"
+    },
+    {
+      "unk1": 128,
+      "unk2": 75,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_boss05b_strm.ast",
+      "type": 112,
+      "mOffset": 35332,
+      "NameOffset": 0,
+      "name": "STM_BOSS_05_B"
+    },
+    {
+      "unk1": 128,
+      "unk2": 70,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_astrodome02_strm.ast",
+      "type": 112,
+      "mOffset": 35340,
+      "NameOffset": 0,
+      "name": "STM_ASTRO_DOME_2"
+    },
+    {
+      "unk1": 128,
+      "unk2": 90,
+      "streamType": 238,
+      "streamPath": "/AudioRes/Stream/SMG_boss07_multi.ast",
+      "type": 112,
+      "mOffset": 35348,
+      "NameOffset": 0,
+      "name": "STM_BOSS_KOOPA"
+    },
+    {
+      "unk1": 128,
+      "unk2": 100,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_ev_kuppabt01_strm.ast",
+      "type": 112,
+      "mOffset": 35356,
+      "NameOffset": 0,
+      "name": "STM_MEET_KOOPA"
+    },
+    {
+      "unk1": 128,
+      "unk2": 105,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy15_hurry_strm.ast",
+      "type": 112,
+      "mOffset": 35364,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_15_HURRY"
+    },
+    {
+      "unk1": 128,
+      "unk2": 73,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy15_strm.ast",
+      "type": 112,
+      "mOffset": 35372,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_15"
+    },
+    {
+      "unk1": 128,
+      "unk2": 95,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_ev_kinotan_strm.ast",
+      "type": 112,
+      "mOffset": 35380,
+      "NameOffset": 0,
+      "name": "STM_KINOPIO_TANKEN"
+    },
+    {
+      "unk1": 128,
+      "unk2": 95,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy22_strm.ast",
+      "type": 112,
+      "mOffset": 35388,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_22"
+    },
+    {
+      "unk1": 128,
+      "unk2": 83,
+      "streamType": 238,
+      "streamPath": "/AudioRes/Stream/SMG_ev_race02_multi.ast",
+      "type": 112,
+      "mOffset": 35396,
+      "NameOffset": 0,
+      "name": "STM_RACE_02"
+    },
+    {
+      "unk1": 128,
+      "unk2": 75,
+      "streamType": 238,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy16_multi.ast",
+      "type": 112,
+      "mOffset": 35404,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_16"
+    },
+    {
+      "unk1": 128,
+      "unk2": 48,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy17_strm.ast",
+      "type": 112,
+      "mOffset": 35412,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_17"
+    },
+    {
+      "unk1": 128,
+      "unk2": 113,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy01_tomb_strm.ast",
+      "type": 112,
+      "mOffset": 35420,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_01_TOMB"
+    },
+    {
+      "unk1": 128,
+      "unk2": 55,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy18_strm.ast",
+      "type": 112,
+      "mOffset": 35428,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_18"
+    },
+    {
+      "unk1": 128,
+      "unk2": 91,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy19_strm.ast",
+      "type": 112,
+      "mOffset": 35436,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_19"
+    },
+    {
+      "unk1": 128,
+      "unk2": 87,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy20_strm.ast",
+      "type": 112,
+      "mOffset": 35444,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_20"
+    },
+    {
+      "unk1": 128,
+      "unk2": 80,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy21_strm.ast",
+      "type": 112,
+      "mOffset": 35452,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_21"
+    },
+    {
+      "unk1": 128,
+      "unk2": 70,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy23_strm.ast",
+      "type": 112,
+      "mOffset": 35460,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_23"
+    },
+    {
+      "unk1": 128,
+      "unk2": 60,
+      "streamType": 238,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy24_multi.ast",
+      "type": 112,
+      "mOffset": 35468,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_24"
+    },
+    {
+      "unk1": 128,
+      "unk2": 80,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_boss08_strm.ast",
+      "type": 112,
+      "mOffset": 35476,
+      "NameOffset": 0,
+      "name": "STM_BOSS_MECHA_KOOPA"
+    },
+    {
+      "unk1": 128,
+      "unk2": 118,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy25_strm.ast",
+      "type": 112,
+      "mOffset": 35484,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_25"
+    },
+    {
+      "unk1": 128,
+      "unk2": 90,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy26_strm.ast",
+      "type": 112,
+      "mOffset": 35492,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_26"
+    },
+    {
+      "unk1": 128,
+      "unk2": 85,
+      "streamType": 238,
+      "streamPath": "/AudioRes/Stream/SMG_boss09a_multi.ast",
+      "type": 112,
+      "mOffset": 35500,
+      "NameOffset": 0,
+      "name": "STM_BOSS_09_A"
+    },
+    {
+      "unk1": 128,
+      "unk2": 85,
+      "streamType": 238,
+      "streamPath": "/AudioRes/Stream/SMG_boss09b_multi.ast",
+      "type": 112,
+      "mOffset": 35508,
+      "NameOffset": 0,
+      "name": "STM_BOSS_09_B"
+    },
+    {
+      "unk1": 128,
+      "unk2": 42,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_ev_starchance02_strm.ast",
+      "type": 112,
+      "mOffset": 35516,
+      "NameOffset": 0,
+      "name": "STM_STAR_EXIST_2"
+    },
+    {
+      "unk1": 128,
+      "unk2": 126,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_staffroll_strm.ast",
+      "type": 112,
+      "mOffset": 35524,
+      "NameOffset": 0,
+      "name": "STM_STAFF_ROLL"
+    },
+    {
+      "unk1": 128,
+      "unk2": 110,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_ev_prolo05_strm.ast",
+      "type": 112,
+      "mOffset": 35532,
+      "NameOffset": 0,
+      "name": "STM_PROLOGUE_05"
+    },
+    {
+      "unk1": 128,
+      "unk2": 80,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_first_astro_strm.ast",
+      "type": 112,
+      "mOffset": 35540,
+      "NameOffset": 0,
+      "name": "STM_FIRST_ASTRO"
+    },
+    {
+      "unk1": 128,
+      "unk2": 96,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_galaxy28_strm.ast",
+      "type": 112,
+      "mOffset": 35548,
+      "NameOffset": 0,
+      "name": "STM_GALAXY_28"
+    },
+    {
+      "unk1": 128,
+      "unk2": 123,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_boss10_strm.ast",
+      "type": 112,
+      "mOffset": 35556,
+      "NameOffset": 0,
+      "name": "STM_BOSS_KOOPA_FINAL"
+    },
+    {
+      "unk1": 128,
+      "unk2": 40,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_ev_epilogue_b_strm.ast",
+      "type": 112,
+      "mOffset": 35564,
+      "NameOffset": 0,
+      "name": "STM_EPILOGUE_B"
+    },
+    {
+      "unk1": 128,
+      "unk2": 100,
+      "streamType": 238,
+      "streamPath": "/AudioRes/Stream/SMG_astrodome04_multi.ast",
+      "type": 112,
+      "mOffset": 35572,
+      "NameOffset": 0,
+      "name": "STM_ASTRO_DOME_LOFT"
+    },
+    {
+      "unk1": 128,
+      "unk2": 60,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_ev_prolo01_b_strm.ast",
+      "type": 112,
+      "mOffset": 35580,
+      "NameOffset": 0,
+      "name": "STM_PROLOGUE_01_B"
+    },
+    {
+      "unk1": 128,
+      "unk2": 80,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_astroout02_strm.ast",
+      "type": 112,
+      "mOffset": 35588,
+      "NameOffset": 0,
+      "name": "STM_ASTRO_OUT_2"
+    },
+    {
+      "unk1": 128,
+      "unk2": 95,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_ev_kinotan_strm.ast",
+      "type": 112,
+      "mOffset": 35596,
+      "NameOffset": 0,
+      "name": "STM_KINOPIO_TANKEN_B"
+    },
+    {
+      "unk1": 128,
+      "unk2": 79,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_astroout03_strm.ast",
+      "type": 112,
+      "mOffset": 35604,
+      "NameOffset": 0,
+      "name": "STM_ASTRO_OUT_3"
+    },
+    {
+      "unk1": 128,
+      "unk2": 80,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_second_astro_strm.ast",
+      "type": 112,
+      "mOffset": 35612,
+      "NameOffset": 0,
+      "name": "STM_SECOND_ASTRO"
+    },
+	{
+      "unk1": 128,
+      "unk2": 80,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_powersource_strm.ast",
+      "type": 112,
+      "mOffset": 35612,
+      "NameOffset": 0,
+      "name": "STM_POWERSOURCE"
+    },
+	{
+      "unk1": 128,
+      "unk2": 80,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_glitch_strm.ast",
+      "type": 112,
+      "mOffset": 35612,
+      "NameOffset": 0,
+      "name": "STM_GLITCH"
+    },
+	{
+      "unk1": 128,
+      "unk2": 80,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_azaneth_strm.ast",
+      "type": 112,
+      "mOffset": 35612,
+      "NameOffset": 0,
+      "name": "STM_AZANETH"
+    },
+	{
+      "unk1": 128,
+      "unk2": 80,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_savior_strm.ast",
+      "type": 112,
+      "mOffset": 35612,
+      "NameOffset": 0,
+      "name": "STM_SAVIOR"
+    },
+	{
+      "unk1": 128,
+      "unk2": 80,
+      "streamType": 14,
+      "streamPath": "/AudioRes/Stream/SMG_poem_strm.ast",
+      "type": 112,
+      "mOffset": 35612,
+      "NameOffset": 0,
+      "name": "STM_POEM"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+Custom-built SoundModdingToolkit for SMG1/SMG2 by VTXG.
+
+Tools:
+ - bast, by Xaygra
+ - jampacked, by Xaygra
+ - jatast, by Xaygra
+ - saft, by Xaygra
+ - WaveStacker, by Xaygra
+ - wsysbuilder, by Xaygra
+ - Yaz0wl, by Humming Owl

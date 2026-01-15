@@ -1,0 +1,700 @@
+{
+  "originalFile": "./SMR.baa",
+  "projectName": "./Modding",
+  "format": "BAA",
+  "includes": [
+    {
+      "hash": 1651733536,
+      "type": "SOUND_TABLE",
+      "path": "include/0.bst",
+      "uid": 0,
+      "flags": 0
+    },
+    {
+      "hash": 1651733614,
+      "type": "SOUND_TABLE_STRINGS",
+      "path": "include/1.bstn",
+      "uid": 0,
+      "flags": 0
+    },
+    {
+      "hash": 1651729184,
+      "type": "SEQUENCE_COLLECTION",
+      "path": "include/2.arc",
+      "uid": 0,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/3.wsy",
+      "uid": 0,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/4.wsy",
+      "uid": 1,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/5.wsy",
+      "uid": 2,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/6.wsy",
+      "uid": 3,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/7.wsy",
+      "uid": 4,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/8.wsy",
+      "uid": 5,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/9.wsy",
+      "uid": 6,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/10.wsy",
+      "uid": 7,
+      "flags": -1
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/11.wsy",
+      "uid": 8,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/12.wsy",
+      "uid": 9,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/13.wsy",
+      "uid": 10,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/14.wsy",
+      "uid": 11,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/15.wsy",
+      "uid": 12,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/16.wsy",
+      "uid": 13,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/17.wsy",
+      "uid": 14,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/18.wsy",
+      "uid": 15,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/19.wsy",
+      "uid": 16,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/20.wsy",
+      "uid": 17,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/21.wsy",
+      "uid": 18,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/22.wsy",
+      "uid": 19,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/23.wsy",
+      "uid": 20,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/24.wsy",
+      "uid": 21,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/25.wsy",
+      "uid": 22,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/26.wsy",
+      "uid": 23,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/27.wsy",
+      "uid": 24,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/28.wsy",
+      "uid": 25,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/29.wsy",
+      "uid": 26,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/30.wsy",
+      "uid": 27,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/31.wsy",
+      "uid": 28,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/32.wsy",
+      "uid": 29,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/33.wsy",
+      "uid": 30,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/34.wsy",
+      "uid": 31,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/35.wsy",
+      "uid": 32,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/36.wsy",
+      "uid": 33,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/37.wsy",
+      "uid": 34,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/38.wsy",
+      "uid": 35,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/39.wsy",
+      "uid": 36,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/40.wsy",
+      "uid": 37,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/41.wsy",
+      "uid": 38,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/42.wsy",
+      "uid": 39,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/43.wsy",
+      "uid": 40,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/44.wsy",
+      "uid": 41,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/45.wsy",
+      "uid": 42,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/46.wsy",
+      "uid": 43,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/47.wsy",
+      "uid": 44,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/48.wsy",
+      "uid": 45,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/49.wsy",
+      "uid": 46,
+      "flags": 0
+    },
+    {
+      "hash": 2004033568,
+      "type": "WSYS",
+      "path": "include/50.wsy",
+      "uid": 47,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/51.bnk",
+      "uid": 0,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/52.bnk",
+      "uid": 1,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/53.bnk",
+      "uid": 2,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/54.bnk",
+      "uid": 3,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/55.bnk",
+      "uid": 4,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/56.bnk",
+      "uid": 5,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/57.bnk",
+      "uid": 6,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/58.bnk",
+      "uid": 7,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/59.bnk",
+      "uid": 8,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/60.bnk",
+      "uid": 9,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/61.bnk",
+      "uid": 10,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/62.bnk",
+      "uid": 11,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/63.bnk",
+      "uid": 12,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/64.bnk",
+      "uid": 13,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/65.bnk",
+      "uid": 14,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/66.bnk",
+      "uid": 15,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/67.bnk",
+      "uid": 16,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/68.bnk",
+      "uid": 17,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/69.bnk",
+      "uid": 18,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/70.bnk",
+      "uid": 19,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/71.bnk",
+      "uid": 20,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/72.bnk",
+      "uid": 21,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/73.bnk",
+      "uid": 22,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/74.bnk",
+      "uid": 23,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/75.bnk",
+      "uid": 24,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/76.bnk",
+      "uid": 25,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/77.bnk",
+      "uid": 26,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/78.bnk",
+      "uid": 27,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/79.bnk",
+      "uid": 28,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/80.bnk",
+      "uid": 29,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/81.bnk",
+      "uid": 30,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/82.bnk",
+      "uid": 31,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/83.bnk",
+      "uid": 32,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/84.bnk",
+      "uid": 33,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/85.bnk",
+      "uid": 34,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/86.bnk",
+      "uid": 35,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/87.bnk",
+      "uid": 36,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/88.bnk",
+      "uid": 37,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/89.bnk",
+      "uid": 38,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/90.bnk",
+      "uid": 39,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/91.bnk",
+      "uid": 40,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/92.bnk",
+      "uid": 41,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/93.bnk",
+      "uid": 42,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/94.bnk",
+      "uid": 43,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/95.bnk",
+      "uid": 44,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/96.bnk",
+      "uid": 45,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/97.bnk",
+      "uid": 46,
+      "flags": 0
+    },
+    {
+      "hash": 1651403552,
+      "type": "IBNK",
+      "path": "include/98.bnk",
+      "uid": 47,
+      "flags": 0
+    }
+  ]
+}

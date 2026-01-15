@@ -1,0 +1,19 @@
+{
+  "name": "SE",
+  "includes": [
+    "libraries/SYSTEM.json",
+    "libraries/PLAYER_VOICE.json",
+    "libraries/PLAYER_MOTION.json",
+    "libraries/BOSS_VOICE.json",
+    "libraries/BOSS_MOTION.json",
+    "libraries/OBJECT.json",
+    "libraries/ATMOSPHERE.json",
+    "libraries/DEMO.json",
+    "libraries/ENEMY_VOICE.json",
+    "libraries/ENEMY_MOTION.json",
+    "libraries/SUPPORTER_VOICE.json",
+    "libraries/SUPPORTER_MOTION.json",
+    "libraries/REMIX_SEQ.json",
+    "libraries/HOME_BUTTON_MENU.json"
+  ]
+}
